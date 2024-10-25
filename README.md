@@ -20,10 +20,10 @@ Siga os passos abaixo para clonar o projeto:
 1 - Abra o terminal ou prompt de comando.
 
 2 - Execute o comando para clonar o repositório:
-- **git clone https://github.com/empresarialmaia/Tricentis.git**
+- **git clone https://github.com/empresarialmaia/ProjetoTricentis.git**
 
 3 - Acesse o diretório do projeto:
-- **cd Tricentis**
+-    **cd Tricentis**
 
 ## Como executar os testes
  Após clonar o repositório, siga os seguintes passos para instalar as dependências e executar os testes:
